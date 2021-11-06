@@ -4,3 +4,4 @@
 ### [14 Beginner Projects](https://github.com/rachanahegde/python-pro-bootcamp-beginner-projects)
 ### [Intermediate Projects](https://github.com/rachanahegde/python-pro-bootcamp-intermediate-projects)
 ### [Intermediate Plus Projects](https://github.com/rachanahegde/python-pro-bootcamp-intermediate-plus-projects)
+### [Advanced Projects](https://github.com/rachanahegde/python-pro-bootcamp-advanced-projects)
