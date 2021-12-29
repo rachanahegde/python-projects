@@ -5,3 +5,6 @@
 ### [Intermediate Projects](https://github.com/rachanahegde/python-pro-bootcamp-intermediate-projects)
 ### [Intermediate Plus Projects](https://github.com/rachanahegde/python-pro-bootcamp-intermediate-plus-projects)
 ### [Advanced Projects](https://github.com/rachanahegde/python-pro-bootcamp-advanced-projects)
+
+## Other Projects
+### [Advent of Code](https://github.com/rachanahegde/python-advent-of-code)
