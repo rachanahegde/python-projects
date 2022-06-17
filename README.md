@@ -3,6 +3,7 @@
 ## Portfolio
 ### [Morse Code Generator](https://github.com/rachanahegde/python-morse-code-generator)
 ### [Python Weather App](https://github.com/rachanahegde/python-weather-app)
+### [Fatal Force Data Analysis](https://github.com/rachanahegde/fatal-force-analysis)
 
 ## 100 Days of Code: Python Pro Bootcamp Projects
 ### [14 Beginner Projects](https://github.com/rachanahegde/python-pro-bootcamp-beginner-projects)
